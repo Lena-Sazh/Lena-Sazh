@@ -6,19 +6,19 @@ ___
 
 | Java | Kotlin | Junit5 | Kotest | Selenide | Rest-Assured | Gradle | Cucumber |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Java.png" width="40" height="40"> |  to add | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/JUnit5.png" width="40" height="40"> | to add | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Selenide.png" width="40" height="40"> | to add | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Gradle.png" width="40" height="40"> | to add |
+| <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Java.png" width="40" height="40"> |  <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Kotlin.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/JUnit5.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Kotest.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Selenide.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Rest-Assured.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Gradle.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Cucumber.png" width="40" height="40"> |
 
 ### :gear: Insfrastructure
 
 | GitHub | Jenkins | Selenoid | Docker |
 |:----:|:----:|:----:|:----:|
-| <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Github.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Jenkins.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Selenoid.png" width="40" height="40"> | to add | 
+| <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Github.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Jenkins.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Selenoid.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Docker.png" width="40" height="40"> | 
 
 ### :bar_chart: Management and Reports
 
-| Allure Report | Allure TestOps | Telegram | Jira |
-|:----:|:----:|:----:|:----:|
-| <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Allure_Report.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/AllureTestOps.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Telegram.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Jira.png" width="40" height="40"> |
+| Allure Report | Allure TestOps | Telegram | Slack | Jira |
+|:----:|:----:|:----:|:----:|:----:|
+| <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Allure_Report.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/AllureTestOps.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Telegram.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Jira.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Slack.png" width="40" height="40"> |
 ___
 
 ### :wink: Reach me out
