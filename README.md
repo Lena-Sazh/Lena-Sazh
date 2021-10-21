@@ -18,7 +18,7 @@ ___
 
 | Allure Report | Allure TestOps | Telegram | Slack | Jira |
 |:----:|:----:|:----:|:----:|:----:|
-| <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Allure_Report.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/AllureTestOps.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Telegram.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Jira.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Slack.png" width="40" height="40"> |
+| <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Allure_Report.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/AllureTestOps.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Telegram.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Slack.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Jira.png" width="40" height="40"> |
 ___
 
 ### :wink: Reach me out
