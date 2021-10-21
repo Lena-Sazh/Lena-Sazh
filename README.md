@@ -4,9 +4,9 @@ Some intro
 ___
 ### :hammer_and_pick: Code
 
-| Java | Kotlin | Junit5 | Kotest | Selenide | Rest-Assured | Gradle | Cucumber |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Java.png" width="40" height="40"> |  <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Kotlin.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/JUnit5.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Kotest.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Selenide.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Rest-Assured.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Gradle.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Cucumber.png" width="40" height="40"> |
+| IntelliJ IDEA | Java | Kotlin | Junit5 | Kotest | Selenide | Rest-Assured | Gradle | Cucumber |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Intelij_IDEA.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Java.png" width="40" height="40"> |  <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Kotlin.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/JUnit5.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Kotest.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Selenide.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Rest-Assured.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Gradle.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Cucumber.png" width="40" height="40"> |
 
 ### :gear: Insfrastructure
 
