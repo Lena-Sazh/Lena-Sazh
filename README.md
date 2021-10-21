@@ -6,19 +6,19 @@ ___
 
 | Java | Kotlin | Junit5 | Kotest | Selenide | Rest-Assured | Gradle | Cucumber |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Java.png" width="40" height="40"> |  <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Kotlin.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/JUnit5.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Kotest.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Selenide.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Rest-Assured.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Gradle.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Cucumber.png" width="40" height="40"> |
+| <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Java.png" width="40" height="40"> |  <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Kotlin.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/JUnit5.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Kotest.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Selenide.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Rest-Assured.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Gradle.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Cucumber.png" width="40" height="40"> |
 
 ### :gear: Insfrastructure
 
 | GitHub | Jenkins | Selenoid | Docker |
 |:----:|:----:|:----:|:----:|
-| <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Github.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Jenkins.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Selenoid.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Docker.png" width="40" height="40"> | 
+| <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Github.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Jenkins.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Selenoid.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Docker.png" width="40" height="40"> | 
 
 ### :bar_chart: Management and Reports
 
 | Allure Report | Allure TestOps | Telegram | Slack | Jira |
 |:----:|:----:|:----:|:----:|:----:|
-| <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Allure_Report.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/AllureTestOps.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Telegram.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Jira.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/src/test/resources/logo/Slack.png" width="40" height="40"> |
+| <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Allure_Report.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/AllureTestOps.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Telegram.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Jira.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Slack.png" width="40" height="40"> |
 ___
 
 ### :wink: Reach me out
@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 
 <!--
