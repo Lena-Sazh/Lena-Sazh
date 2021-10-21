@@ -1,6 +1,14 @@
-### Hi there 👋
+### 👋 Hi there 
+
+
+
+![Lena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lena-Sazh&show_icons=true&theme=buefy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lena-Sazh&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
+### Hi there 👋
 **Lena-Sazh/Lena-Sazh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +21,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+
+
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lena-Sazh&repo=AllureExamples&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lena-Sazh&show_icons=true&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lena-Sazh&layout=compact&theme=buefy" />
+</a>
 -->
