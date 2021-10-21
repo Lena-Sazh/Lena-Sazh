@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-### Tools
+### :hammer_and_pick: Tools
 
 | Java | Junit5 | Gradle | Selenide | Jenkins | Selenoid | Allure Report | Allure TestOps | Telegram | Jira |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
@@ -8,7 +8,7 @@
 
 ___
 
-### Reach me out
+### :wink: Reach me out
 * [LinkedIn](https://www.linkedin.com/in/elena-sazhina/)
 * [Hyperskill](https://hyperskill.org/profile/8906132)
 
