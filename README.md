@@ -6,21 +6,30 @@ Open to any collab :blush:
 ___
 ### :hammer_and_pick: Code
 
-| IntelliJ IDEA | Java | Junit5 | Kotlin | Kotest | Selenide | Rest-Assured | Gradle | Cucumber |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Intelij_IDEA.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Java.png" width="40" height="40"> |  <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/JUnit5.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Kotlin.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Kotest.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Selenide.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Rest-Assured.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Gradle.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Cucumber.png" width="40" height="40"> |
+<code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Intelij_IDEA.png"></code>
+<code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Java.png"></code>
+<code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/JUnit5.png"></code>
+<code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Kotlin.png"></code>
+<code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Kotest.png"></code>
+<code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Selenide.png"></code>
+<code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Rest-Assured.png"></code>
+<code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Gradle.png"></code>
+<code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Cucumber.png"></code>
 
 ### :gear: Insfrastructure
 
-| GitHub | Jenkins | Selenoid | Docker |
-|:----:|:----:|:----:|:----:|
-| <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Github.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Jenkins.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Selenoid.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Docker.png" width="40" height="40"> | 
+<code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Github.png"></code>
+<code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Jenkins.png"></code>
+<code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Selenoid.png"></code>
+<code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Docker.png"></code>
 
 ### :bar_chart: Management and Reports
 
-| Allure Report | Allure TestOps | Telegram | Slack | Jira |
-|:----:|:----:|:----:|:----:|:----:|
-| <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Allure_Report.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/AllureTestOps.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Telegram.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Slack.png" width="40" height="40"> | <img src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Jira.png" width="40" height="40"> |
+<code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Allure_Report.png"></code>
+<code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/AllureTestOps.png"></code>
+<code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Telegram.png"></code>
+<code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Slack.png"></code>
+<code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Jira.png"></code>
 ___
 
 ### :wink: Reach me out
