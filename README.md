@@ -1,10 +1,10 @@
-##  👋:blush: Hi there! I'm Lena
+## :wave::blush: Hi there! I'm Lena
 
 * Welcome to my coding playground. 
 
 * I'm a QA engineer who is passionate about developing the best solutions for process improving. And programming is an integral part of any process automation. So this is where my journey into universe of programming begins. 
 
-* As a life-long learner I enjoy meeting new people and value hearing new perspectives. Here I'm open to any collab.
+* As a life-long learner I value learning from others, enjoy meeting new people and hearing new perspectives. Here I'm open to any collab.
 
 ___
 ## :blue_heart: Some tools I'm exploring and mastering
@@ -37,7 +37,7 @@ ___
 <code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Jira.png"></code>
 
 ___
-## 🌎 Reach me out on the web
+## :earth_americas: Reach me out on the web
 
 * Feel free to connect on <a href="https://www.linkedin.com/in/elena-sazhina/">LinkedIn</a> 
 * Let's learn together on <a href="https://hyperskill.org/profile/8906132">Hyperskill</a> 
