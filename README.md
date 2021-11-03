@@ -48,14 +48,16 @@ ___
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Lena-Sazh&show_icons=true&theme=buefy" />
 </a>
 
+
+<a href="https://github.com/Lena-Sazh"><img align="right" align="top" width="200" height="200" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/img/owly.gif?raw=true"></a>
+
+
+<!--
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lena-Sazh&layout=compact&theme=buefy" />
 </a>
 
-<a href="https://github.com/Lena-Sazh"><img align="right" align="top" width="170" height="170" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/img/owly.gif?raw=true"></a>
-
-
-<!--
 ![Lena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lena-Sazh&show_icons=true&theme=buefy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lena-Sazh&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
