@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-This is where my coding path starts...
+This is where my coding journey starts :purple_heart:
 
 Open to any collab :blush:
 ___
