@@ -1,9 +1,14 @@
-## 👋 Hi there!
+##  👋:blush: Hi there! I'm Lena
 
-This is where my coding journey starts :purple_heart:
+* Welcome to my coding playground. 
 
-Open to any collab :blush:
+* I'm a QA engineer who is passionate about developing the best solutions for process improving. And programming is an integral part of any process automation. So this is where my journey into universe of programming begins. 
+
+* As a life-long learner I enjoy meeting new people and value hearing new perspectives. Here I'm open to any collab.
+
 ___
+## :blue_heart: Some tools I'm exploring and mastering
+
 ### :hammer_and_pick: Code
 
 <code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Intelij_IDEA.png"></code>
@@ -23,20 +28,21 @@ ___
 <code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Selenoid.png"></code>
 <code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Docker.png"></code>
 
-### :bar_chart: Management and Reports
+### :bar_chart: Test Management and Reports
 
 <code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Allure_Report.png"></code>
 <code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/AllureTestOps.png"></code>
 <code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Telegram.png"></code>
 <code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Slack.png"></code>
 <code><img height="40" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Jira.png"></code>
-___
-
-### :wink: Reach me out
-* [LinkedIn](https://www.linkedin.com/in/elena-sazhina/)
-* [Hyperskill](https://hyperskill.org/profile/8906132)
 
 ___
+## 🌎 Reach me out on the web
+
+* Feel free to connect on <a href="https://www.linkedin.com/in/elena-sazhina/">LinkedIn</a> 
+* Let's learn together on <a href="https://hyperskill.org/profile/8906132">Hyperskill</a> 
+___
+## :purple_heart: Some stats just for fun
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=Lena-Sazh&show_icons=true&theme=buefy" />
