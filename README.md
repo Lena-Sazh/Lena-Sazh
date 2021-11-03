@@ -52,7 +52,8 @@ ___
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lena-Sazh&layout=compact&theme=buefy" />
 </a>
 
-<a href="https://github.com/Lena-Sazh"><img align="right" width="150" height="150" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/img/owly.gif?raw=true"></a>
+<a href="https://github.com/Lena-Sazh"><img align="right" width="170" height="170" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/img/owly.gif?raw=true"></a>
+
 
 <!--
 ![Lena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lena-Sazh&show_icons=true&theme=buefy)
