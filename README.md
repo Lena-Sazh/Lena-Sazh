@@ -1,4 +1,5 @@
 ## :wave::blush: Hi there! I'm Lena
+<a href="https://github.com/Lena-Sazh"><img align="left" width="170" height="170" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/img/owly.gif?raw=true"></a>
 
 * Welcome to my coding playground. 
 
