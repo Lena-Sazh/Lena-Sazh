@@ -54,7 +54,7 @@ ___
 
 
 <a href="https://komarev.com/ghpvc/?username=Lena-Sazh&style=plastic&color=9152C0">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Lena-Sazh&style=plastic&color=9152C0" />
+  <img align="right" align="bottom" src="https://komarev.com/ghpvc/?username=Lena-Sazh&style=plastic&color=9152C0" />
 </a>
 
 <!--
