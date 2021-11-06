@@ -49,7 +49,7 @@ ___
 </a>
 
 
-<a href="https://github.com/Lena-Sazh"><img align="right" align="top" width="200" height="200" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/img/owly.gif?raw=true">
+<a href="https://github.com/Lena-Sazh"><img align="right" align="top" width="180" height="180" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/img/owly.gif?raw=true">
 </a>
 
 
