@@ -1,7 +1,7 @@
 ## :wave::blush: Hi there! I'm Lena 
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=helvetica&color=%239152C0&size=20&width=500&lines=Welcome+to+my+coding+playground">
+  <img src="https://readme-typing-svg.herokuapp.com?font=helvetica&color=%239152C0&size=25&width=500&lines=Welcome+to+my+coding+playground">
 </p>
 
 I'm a **QA engineer** who is passionate about developing the best solutions for IT products and processes improving. So this is where my journey into universe of programming *(as an integral part of any improvement of those)* begins. Here I'm open to any collaboration.
