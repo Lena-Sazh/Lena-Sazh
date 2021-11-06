@@ -48,17 +48,18 @@ ___
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Lena-Sazh&show_icons=true&theme=buefy&hide_border=true" />
 </a>
 
-<a href="https://github.com/Lena-Sazh/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lena-Sazh&layout=compact&theme=buefy&hide_border=true" />
-</a>
 
-<a href="https://github.com/Lena-Sazh"><img align="right" align="top" width="200" height="200" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/img/owly.gif?raw=true"></a>
+<a href="https://github.com/Lena-Sazh"><img align="right" align="top" width="200" height="200" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/img/owly.gif?raw=true">
+</a>
 
 ![Lena's view stats](https://komarev.com/ghpvc/?username=Lena-Sazh&style=plastic&color=9152C0)
 
 
 
 <!--
+<a href="https://github.com/Lena-Sazh/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lena-Sazh&layout=compact&theme=buefy&hide_border=true" />
+</a>
 
 *Providing highest level of **QUALITY** for IT products and processes to make **CUSTOMERS** happy* 
 
