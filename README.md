@@ -31,7 +31,7 @@ ___
 <code><img height="30" title="Selenoid" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Selenoid.svg"></code>
 <code><img height="30" title="Docker" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Docker.svg"></code>
 
-### :bar_chart: Test Management and Reports
+### :bar_chart: Reports
 
 <code><img height="30" title="Allure Report" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Allure_Report.svg"></code>
 <code><img height="30" title="Allure TestOps" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Allure_EE.svg"></code>
