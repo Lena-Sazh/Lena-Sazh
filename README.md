@@ -57,7 +57,7 @@ ___
 
 <p align="left">
 <a href="https://github.com/Lena-Sazh/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lena-Sazh&layout=compact&theme=buefy&hide_border=true" />
+  <img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lena-Sazh&layout=compact&theme=buefy&hide_border=true" />
 </a>
 </p>
 
