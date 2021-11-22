@@ -55,9 +55,15 @@ ___
 </a>
 </p>
 
+<p align="left">
+<a href="https://github.com/Lena-Sazh/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lena-Sazh&layout=compact&theme=buefy&hide_border=true" />
+</a>
+</p>
+
 <p align="right">
 <a href="https://github.com/Lena-Sazh">
-  <img width="180" height="240" title="Curious Owl" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/gif/Owl_blink.gif?raw=true">
+  <img width="190" height="250" title="I'm watching you!" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/gif/Owl_blink.gif?raw=true">
 </a>
 </p>
 
