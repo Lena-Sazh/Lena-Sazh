@@ -46,21 +46,17 @@ ___
 
 <p align="left">
 <a href="https://github.com/Lena-Sazh/github-readme-stats">
-  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Lena-Sazh&show_icons=true&theme=buefy&hide_border=true" />
+  <img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=Lena-Sazh&show_icons=true&theme=buefy&hide_border=true" />
 </a>
 </p>
 
 <p align="right">
-<a><img width="35%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lena-Sazh&layout=compact&theme=buefy&hide_border=true"/></a>
-</p>
+<a><img width="40%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lena-Sazh&layout=compact&theme=buefy&hide_border=true"/></a>
 
-<p align="right">
 <a href="https://github.com/Lena-Sazh">
   <img align="right" align="top" width="180" height="180" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/img/owly.gif?raw=true">
 </a>
-</p>
 
-<p align="right">
 <a href="https://komarev.com/ghpvc/?username=Lena-Sazh&style=plastic&color=9152C0">
   <img align="right" align="bottom" src="https://komarev.com/ghpvc/?username=Lena-Sazh&style=plastic&color=9152C0" />
 </a>
