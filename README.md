@@ -57,7 +57,7 @@ ___
 
 <p align="right">
 <a href="https://github.com/Lena-Sazh">
-  <img width="180" height="180" title="Curious Owl" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/img/owly.gif?raw=true">
+  <img width="180" height="240" title="Curious Owl" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/gif/Owl_blink.gif?raw=true">
 </a>
 </p>
 
