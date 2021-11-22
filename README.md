@@ -57,7 +57,7 @@ ___
 
 <p align="right">
 <a href="https://github.com/Lena-Sazh">
-  <img width="180" height="180" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/img/owly.gif?raw=true">
+  <img width="180" height="180" title="Curious Owl" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/img/owly.gif?raw=true">
 </a>
 </p>
 
@@ -69,7 +69,7 @@ ___
 
 <!--
 
-<a><img width="40%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lena-Sazh&layout=compact&theme=buefy&hide_border=true"/></a>
+<a><img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lena-Sazh&layout=compact&theme=buefy&hide_border=true"/></a>
 
 ![Lena's view stats](https://komarev.com/ghpvc/?username=Lena-Sazh&style=plastic&color=9152C0)
 
