@@ -16,14 +16,12 @@ ___
 <code><img height="30" title="JUnit 5" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/JUnit5.svg"></code>
 <code><img height="30" title="Kotlin" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Kotlin.svg"></code>
 <code><img height="30" title="Kotest" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Kotest.png"></code>
-<code><img height="30" title="Gradle" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Gradle.svg"></code>
   <br />
-<code><img height="30" title="Selenium" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Selenium.svg"></code>
+<code><img height="30" title="Gradle" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Gradle.svg"></code>
 <code><img height="30" title="Selenide" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Selenide.svg"></code>
 <code><img height="30" title="Rest-Assured" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Rest-Assured.svg"></code>
 <code><img height="30" title="Cucumber" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Cucumber.svg"></code>
 <code><img height="30" title="Appium" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Appium.svg"></code>
-<code><img height="30" title="Browserstack" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Browserstack.svg"></code>
 
 ### :gear: Insfrastructure
 
