@@ -20,13 +20,13 @@ ___
 <code><img height="50" title="Gradle" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Gradle.svg"></code>
 <code><img height="50" title="Selenide" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Selenide.svg"></code>
 <code><img height="50" title="Rest-Assured" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Rest-Assured.svg"></code>
-<code><img height="50" title="Cucumber" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Cucumber.svg"></code>
 <code><img height="50" title="Appium" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Appium.svg"></code>
+<code><img height="50" title="BrowserStack" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Browserstack.svg"></code>
 
 ### :gear: Insfrastructure
 
+<code><img height="50" title="Git" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Git.svg"></code>
 <code><img height="50" title="GitHub" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Github.svg"></code>
-<code><img height="50" title="GitLab" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Gitlab.svg"></code>
 <code><img height="50" title="Jenkins" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Jenkins.svg"></code>
 <code><img height="50" title="Selenoid" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Selenoid.svg"></code>
 <code><img height="50" title="Docker" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Docker.svg"></code>
