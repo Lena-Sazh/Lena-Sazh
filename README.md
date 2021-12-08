@@ -40,6 +40,14 @@ ___
 <code><img height="50" title="Jira" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Jira.svg"></code>
 
 ___
+## :hammer_and_wrench: Recent projects
+
+<p align="left">
+  <a href="https://github.com/Lena-Sazh/SovaCapital"><img width="400" title="Sova Capital Tests" src="https://github-readme-stats.vercel.app/api/pin/?username=Lena-Sazh&repo=SovaCapital&theme=buefy"></a>
+  <a href="https://github.com/Lena-Sazh/Rest-Assured"><img width="400" title="Rest-Assured Examples" src="https://github-readme-stats.vercel.app/api/pin/?username=Lena-Sazh&repo=Rest-Assured&theme=buefy"></a>
+</p>
+
+___
 ## :earth_americas: Reach me out on the web
 
 * Feel free to connect on <a href="https://www.linkedin.com/in/elena-sazhina/">LinkedIn</a> 
@@ -89,8 +97,7 @@ ___
 
 ![Lena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lena-Sazh&show_icons=true&theme=buefy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lena-Sazh&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lena-Sazh&layout=compact&theme=buefy)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lena-Sazh&repo=AllureExamples&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lena-Sazh&repo=AllureExamples&theme=buefy)
 -->
