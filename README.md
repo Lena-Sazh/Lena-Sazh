@@ -14,7 +14,7 @@ ___
 <code><img height="50" title="IntelliJ IDEA" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Intelij_IDEA.svg"></code>
 <code><img height="50" title="Java" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Java.svg"></code>
 <code><img height="50" title="JUnit 5" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/JUnit5.svg"></code>
-<code><img height="50" title="Kotlin" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Kotlin.svg"></code>
+<code><img height="50" title="Kotlin" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Kotlin.png"></code>
 <code><img height="50" title="Kotest" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Kotest.png"></code>
   <br />
 <code><img height="50" title="Gradle" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Gradle.svg"></code>
@@ -43,8 +43,7 @@ ___
 ## :hammer_and_wrench: Recent projects
 
 <p align="left">
-  <a href="https://github.com/Lena-Sazh/SovaCapital"><img width="400" title="Sova Capital Tests" src="https://github-readme-stats.vercel.app/api/pin/?username=Lena-Sazh&repo=SovaCapital&theme=buefy"></a>
-  <a href="https://github.com/Lena-Sazh/Rest-Assured"><img width="400" title="Rest-Assured Examples" src="https://github-readme-stats.vercel.app/api/pin/?username=Lena-Sazh&repo=Rest-Assured&theme=buefy"></a>
+  <a href="https://github.com/Lena-Sazh/MOEX"><img width="400" title="Sova Capital Tests" src="https://github-readme-stats.vercel.app/api/pin/?username=Lena-Sazh&repo=MOEX&theme=buefy"></a>
 </p>
 
 ___
