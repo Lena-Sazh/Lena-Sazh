@@ -43,10 +43,10 @@ ___
 ## :hammer_and_wrench: Recent projects
 
 <p align="left">
-   <a href="https://github.com/Lena-Sazh/SovaCapital"><img width="400" title="Sova Capital Tests" src="https://github-readme-stats.vercel.app/api/pin/?username=Lena-Sazh&repo=SovaCapital&theme=buefy"></a>
-  <a href="https://github.com/Lena-Sazh/MOEX"><img width="400" title="MOEX Tests" src="https://github-readme-stats.vercel.app/api/pin/?username=Lena-Sazh&repo=MOEX&theme=buefy"></a>
-  <a href="https://github.com/Lena-Sazh/Rest-Assured"><img width="400" title="REST-assured Examples" src="https://github-readme-stats.vercel.app/api/pin/?username=Lena-Sazh&repo=Rest-Assured&theme=buefy"></a>
-  <a href="https://github.com/Lena-Sazh/Appium"><img width="400" title="Appium Mobile Tests" src="https://github-readme-stats.vercel.app/api/pin/?username=Lena-Sazh&repo=Appium&theme=buefy"></a>
+   <a href="https://github.com/Lena-Sazh/SovaCapital"><img width="350" title="Sova Capital Tests" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lena-sazh&repo=SovaCapital&theme=buefy&border_color=6A54DF&title_color=6F4BD7&show_icons=true" alt="Sova Capital Tests"></a>
+  <a href="https://github.com/Lena-Sazh/MOEX"><img width="350" title="MOEX Tests" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lena-sazh&repo=MOEX&theme=buefy&border_color=6A54DF&title_color=6F4BD7&show_icons=true" alt="MOEX Tests"></a>
+  <a href="https://github.com/Lena-Sazh/Rest-Assured"><img width="350" title="REST-assured Examples" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lena-sazh&repo=Rest-Assured&theme=buefy&border_color=6A54DF&title_color=6F4BD7&show_icons=true" alt="API Tests"></a>
+  <a href="https://github.com/Lena-Sazh/Appium"><img width="350" title="Appium Mobile Tests" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lena-sazh&repo=Appium&theme=buefy&border_color=6A54DF&title_color=6F4BD7&show_icons=true" alt="Mobile Tests"></a>
 </p>
 
 ___
