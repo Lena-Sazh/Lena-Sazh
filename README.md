@@ -52,8 +52,9 @@ ___
 ___
 ## :earth_americas: Reach me out on the web
 
-* Feel free to connect on <a href="https://www.linkedin.com/in/elena-sazhina/">LinkedIn</a> 
-* Let's learn together on <a href="https://hyperskill.org/profile/8906132">Hyperskill</a> 
+* Feel free to connect on **<a href="https://www.linkedin.com/in/elena-sazhina/">LinkedIn</a>**
+* Let's learn together on **<a href="https://hyperskill.org/profile/8906132">Hyperskill</a>**
+* Say "Hi!" on **<a href="https://t.me/Lemo_0nka">Telegram</a>**
 ___
 ## :purple_heart: Some stats just for fun
 
@@ -86,5 +87,5 @@ ___
 ___
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=helvetica&color=%239196B3&size=25&center=true&multiline=true&width=1000&height=70&lines=Let's+provide+the+highest+level+of+QUALITY+for+IT+products+and+processes+;to+make+CUSTOMERS+happy!+:)">
+  <img src="https://readme-typing-svg.herokuapp.com?font=helvetica&color=%239196B3&size=25&center=true&multiline=true&width=1000&height=70&lines=Let's+provide+the+highest+level+of+QUALITY+for+IT+products+and+processes+;to+make+our+CUSTOMERS+happy!">
 </p>
