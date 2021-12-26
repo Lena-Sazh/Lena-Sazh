@@ -77,29 +77,13 @@ ___
 
 <p align="right">
 <a href="https://komarev.com/ghpvc/?username=Lena-Sazh&style=plastic&color=9152C0">
-  <img src="https://komarev.com/ghpvc/?username=Lena-Sazh&style=plastic&color=9152C0" />
+  <img src="https://komarev.com/ghpvc/?username=Lena-Sazh&style=plastic&color=9152C0"/>
 </a>
 </p>
 
-<!--
+ 
+___
 
-<a><img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lena-Sazh&layout=compact&theme=buefy&hide_border=true"/></a>
-
-![Lena's view stats](https://komarev.com/ghpvc/?username=Lena-Sazh&style=plastic&color=9152C0)
-
-<a href="https://github.com/Lena-Sazh/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lena-Sazh&layout=compact&theme=buefy&hide_border=true" />
-</a>
-
-*Providing highest level of **QUALITY** for IT products and processes to make **CUSTOMERS** happy* 
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lena-Sazh&layout=compact&theme=buefy&hide_border=true" />
-</a>
-
-![Lena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lena-Sazh&show_icons=true&theme=buefy)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lena-Sazh&layout=compact&theme=buefy)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lena-Sazh&repo=AllureExamples&theme=buefy)
--->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=helvetica&color=%239196B3&size=25&center=true&multiline=true&width=1000&height=70&lines=Let's+provide+the+highest+level+of+QUALITY+for+IT+products+and+processes+;to+make+CUSTOMERS+happy!+:)">
+</p>
