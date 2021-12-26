@@ -11,33 +11,33 @@ ___
 
 ### :hammer_and_pick: Code
 
-<code><img height="50" title="IntelliJ IDEA" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Intelij_IDEA.svg"></code>
-<code><img height="50" title="Java" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Java.svg"></code>
-<code><img height="50" title="JUnit 5" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/JUnit5.svg"></code>
-<code><img height="50" title="Kotlin" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Kotlin.png"></code>
-<code><img height="50" title="Kotest" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Kotest.png"></code>
+<code><img height="50" title="IntelliJ IDEA" src="/src/test/resources/logo/Intelij_IDEA.svg"></code>
+<code><img height="50" title="Java" src="/src/test/resources/logo/Java.svg"></code>
+<code><img height="50" title="JUnit 5" src="/src/test/resources/logo/JUnit5.svg"></code>
+<code><img height="50" title="Kotlin" src="/src/test/resources/logo/Kotlin.png"></code>
+<code><img height="50" title="Kotest" src="/src/test/resources/logo/Kotest.png"></code>
   <br />
-<code><img height="50" title="Gradle" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Gradle.svg"></code>
-<code><img height="50" title="Selenide" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Selenide.svg"></code>
-<code><img height="50" title="Rest-Assured" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Rest-Assured.svg"></code>
-<code><img height="50" title="Appium" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Appium.svg"></code>
-<code><img height="50" title="BrowserStack" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Browserstack.svg"></code>
+<code><img height="50" title="Gradle" src="/src/test/resources/logo/Gradle.svg"></code>
+<code><img height="50" title="Selenide" src="/src/test/resources/logo/Selenide.svg"></code>
+<code><img height="50" title="Rest-Assured" src="/src/test/resources/logo/Rest-Assured.svg"></code>
+<code><img height="50" title="Appium" src="/src/test/resources/logo/Appium.svg"></code>
+<code><img height="50" title="BrowserStack" src="/src/test/resources/logo/Browserstack.svg"></code>
 
 ### :gear: Insfrastructure
 
-<code><img height="50" title="Git" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Git.svg"></code>
-<code><img height="50" title="GitHub" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Github.svg"></code>
-<code><img height="50" title="Jenkins" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Jenkins.svg"></code>
-<code><img height="50" title="Selenoid" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Selenoid.svg"></code>
-<code><img height="50" title="Docker" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Docker.svg"></code>
+<code><img height="50" title="Git" src="/src/test/resources/logo/Git.svg"></code>
+<code><img height="50" title="GitHub" src="/src/test/resources/logo/Github.svg"></code>
+<code><img height="50" title="Jenkins" src="/src/test/resources/logo/Jenkins.svg"></code>
+<code><img height="50" title="Selenoid" src="/src/test/resources/logo/Selenoid.svg"></code>
+<code><img height="50" title="Docker" src="/src/test/resources/logo/Docker.svg"></code>
 
 ### :bar_chart: Reports
 
-<code><img height="50" title="Allure Report" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Allure_Report.svg"></code>
-<code><img height="50" title="Allure TestOps" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Allure_EE.svg"></code>
-<code><img height="50" title="Telegram" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Telegram.svg"></code>
-<code><img height="50" title="Slack" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Slack.svg"></code>
-<code><img height="50" title="Jira" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Jira.svg"></code>
+<code><img height="50" title="Allure Report" src="/src/test/resources/logo/Allure_Report.svg"></code>
+<code><img height="50" title="Allure TestOps" src="/src/test/resources/logo/Allure_EE.svg"></code>
+<code><img height="50" title="Telegram" src="/src/test/resources/logo/Telegram.svg"></code>
+<code><img height="50" title="Slack" src="/src/test/resources/logo/Slack.svg"></code>
+<code><img height="50" title="Jira" src="/src/test/resources/logo/Jira.svg"></code>
 
 ___
 ## :hammer_and_wrench: Recent projects
