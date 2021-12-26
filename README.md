@@ -43,9 +43,10 @@ ___
 ## :hammer_and_wrench: Recent projects
 
 <p align="left">
-  <a href="https://github.com/Lena-Sazh/Rest-Assured"><img width="300" title="REST-assured Examples" src="https://github-readme-stats.vercel.app/api/pin/?username=Lena-Sazh&repo=Rest-Assured&theme=buefy"></a>
-  <a href="https://github.com/Lena-Sazh/Appium"><img width="300" title="Appium Mobile Tests" src="https://github-readme-stats.vercel.app/api/pin/?username=Lena-Sazh&repo=Appium&theme=buefy"></a>
-  <a href="https://github.com/Lena-Sazh/SovaCapital"><img width="300" title="Sova Capital Tests" src="https://github-readme-stats.vercel.app/api/pin/?username=Lena-Sazh&repo=SovaCapital&theme=buefy"></a>
+   <a href="https://github.com/Lena-Sazh/SovaCapital"><img width="400" title="Sova Capital Tests" src="https://github-readme-stats.vercel.app/api/pin/?username=Lena-Sazh&repo=SovaCapital&theme=buefy"></a>
+  <a href="https://github.com/Lena-Sazh/MOEX"><img width="400" title="MOEX Tests" src="https://github-readme-stats.vercel.app/api/pin/?username=Lena-Sazh&repo=MOEX&theme=buefy"></a>
+  <a href="https://github.com/Lena-Sazh/Rest-Assured"><img width="400" title="REST-assured Examples" src="https://github-readme-stats.vercel.app/api/pin/?username=Lena-Sazh&repo=Rest-Assured&theme=buefy"></a>
+  <a href="https://github.com/Lena-Sazh/Appium"><img width="400" title="Appium Mobile Tests" src="https://github-readme-stats.vercel.app/api/pin/?username=Lena-Sazh&repo=Appium&theme=buefy"></a>
 </p>
 
 ___
