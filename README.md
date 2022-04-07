@@ -21,7 +21,7 @@ ___
 <code><img height="50" title="Selenide" src="/src/test/resources/logo/Selenide.svg"></code>
 <code><img height="50" title="Rest-assured" src="/src/test/resources/logo/Rest-Assured.svg"></code>
 <code><img height="50" title="Appium" src="/src/test/resources/logo/Appium.svg"></code>
-<code><img height="50" title="BrowserStack" src="/src/test/resources/logo/Browserstack.svg"></code>
+<code><img height="50" title="jOOQ" src="/src/test/resources/logo/jOOQ.png"></code>
 
 ### :gear: Insfrastructure
 
