@@ -54,7 +54,7 @@ ___
 
 * Feel free to connect on **<a href="https://www.linkedin.com/in/elena-sazhina/">LinkedIn</a>**
 * Let's learn together on **<a href="https://hyperskill.org/profile/8906132">Hyperskill</a>**
-* Say `Hi!` on **<a href="https://t.me/Lemo_0nka">Telegram</a>**
+<!-- * Say `Hi!` on **<a href="https://t.me/Lemo_0nka">Telegram</a>** -->
 ___
 ## :purple_heart: Some stats just for fun
 
